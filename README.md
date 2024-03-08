@@ -17,5 +17,5 @@ To get started with this project, clone the repository and open the `index.html`
 
 ```bash
 git clone https://github.com/evgeniyshylko/udacity-landing-page.git
-cd dynamic-navigation-project
+cd udacity-landing-page
 // Open index.html in your web browser
